@@ -30,7 +30,6 @@ I am a Senior Software Engineer specializing in backend development, distributed
 - [**sql-backup-py**](https://github.com/antoniovl/sql-backup-py): Backup automation tool for MySQL and PostgreSQL databases (Python).
 - [**tac-plus-client**](https://github.com/antoniovl/tac-plus-client): TACACS+ protocol client for authentication and authorization (Java).
 - [**chat-proxy**](https://github.com/antoniovl/chat-proxy): Simple proxy server and client demonstrating network programming concepts (Java).
-- [**tac_plus**](https://github.com/antoniovl/tac_plus): TACACS+ v4.0 authentication daemon (C).
 
 ---
 
