@@ -29,7 +29,7 @@ I am a Senior Software Engineer specializing in backend development, distributed
 - [**persistence-tools**](https://github.com/antoniovl/persistence-tools): Utilities to streamline transaction demarcation and entity management for JPA applications (Java).
 - [**sql-backup-py**](https://github.com/antoniovl/sql-backup-py): Backup automation tool for MySQL and PostgreSQL databases (Python).
 - [**tac-plus-client**](https://github.com/antoniovl/tac-plus-client): TACACS+ protocol client for authentication and authorization (Java).
-- [**chat-proxy**](https://github.com/antoniovl/chat-proxy): Simple proxy server and client demonstrating network programming concepts (Java).
+- [**chat-proxy**](https://github.com/antoniovl/chat-proxy): Educational project demonstrating core client-server network programming concepts using Java sockets and a simple Swing UI.
 
 ---
 
